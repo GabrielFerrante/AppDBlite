@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">trabalho1PDM</string>
+    <string name="action_enviarMensagem">Enviar mensagem</string>
+    <string name="action_abrirSite">Abrir site</string>
+    <string name="action_addFake">Adicionar Fake</string>
+    <string name="action_voltar">Voltar</string>
+    <!-- Strings used for fragments for navigation -->
+
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <!-- TELA 1 -->
+    <string name="Nome">Nome</string>
+    <string name="Idade">Idade</string>
+    <string name="Email">Email</string>
+    <string name="Celular">Celular</string>
+    <string name="Continuar">Continuar</string>
+
+    <!-- TELA 2 -->
+    <string name="Rejeitar">Rejeitar</string>
+    <string name="Salvar">Salvar</string>
+    <string name="title_activity_3">Activity3</string>
+    <string name="Confirme">Confirme seus dados</string>
+
+    <!-- TELA 3 -->
+    <string name="NomeUser">Nome</string>
+    <string name="codigo">Código</string>
+    <string name="atencao">Atenção</string>
+    <string name="deseja">Deseja realmente excluir ?</string>
+    <string name="excluida">Pessoa excluida com sucesso</string>
+    <string name="impossivel">Impossível excluir</string>
+    <string name="inserir">Deseja realmente inserir Fakison ?</string>
+
+
+
+</resources>

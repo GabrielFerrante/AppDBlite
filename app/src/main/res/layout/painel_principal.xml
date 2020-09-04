@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginTop="20sp"
+    android:layout_marginBottom="20sp"
+    android:orientation="vertical">
+
+    <TableRow
+        android:id="@+id/rowItems"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1">
+
+        <TextView
+            android:id="@+id/lblId"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20sp"
+            android:layout_weight="0.5"
+            android:gravity="left"
+            android:text="@string/codigo"
+            android:textSize="24sp" />
+
+        <TextView
+            android:id="@+id/lblNome"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="20sp"
+            android:layout_weight="0.5"
+            android:gravity="center"
+            android:text="@string/NomeUser"
+            android:textSize="24sp" />
+
+    </TableRow>
+
+</LinearLayout>
